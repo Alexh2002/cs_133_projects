@@ -1,0 +1,12 @@
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/bin/Debug/netcoreapp3.1/MultiplicationTable.deps.json
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/bin/Debug/netcoreapp3.1/MultiplicationTable.runtimeconfig.json
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/bin/Debug/netcoreapp3.1/MultiplicationTable.runtimeconfig.dev.json
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/bin/Debug/netcoreapp3.1/MultiplicationTable.dll
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/bin/Debug/netcoreapp3.1/MultiplicationTable.pdb
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.csprojAssemblyReference.cache
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.AssemblyInfoInputs.cache
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.AssemblyInfo.cs
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.csproj.CoreCompileInputs.cache
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.dll
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.pdb
+/Users/alexanderhoang/Desktop/MultiplicationTable/MultiplicationTable/obj/Debug/netcoreapp3.1/MultiplicationTable.genruntimeconfig.cache
